@@ -32,4 +32,6 @@
      • Stopped/Backgrounded
      
      • Restarted - когато потребителят иска да възстанови дадено activity
+     
+- Services     
 
