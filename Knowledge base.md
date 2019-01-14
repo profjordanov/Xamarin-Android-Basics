@@ -27,7 +27,5 @@
   ## Състояния
      • Active или Running – когато activity работи на преден план
      • Paused - – когато устройството „заспи“ или activity се закрие частично от друго такова
-  
-  • Stopped/Backgrounded
-  
-  • Restarted - когато потребителят иска да възстанови дадено activity
+     • Stopped/Backgrounded
+     • Restarted - когато потребителят иска да възстанови дадено activity
