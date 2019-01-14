@@ -1,1 +1,2 @@
-
+# Solution Explorer
+- [x] Properties
