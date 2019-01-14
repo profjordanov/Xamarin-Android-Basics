@@ -1,2 +1,2 @@
 # Solution Explorer
-- [x] Properties
+- Properties - AndroidManifest.xml (описва изисквания към приложението - name, version,permissions), AssemblyInfo.cs (метаданни)
