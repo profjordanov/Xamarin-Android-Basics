@@ -24,6 +24,8 @@
   - При стартиране на приложението в него се стартира определено activity
   - Програмистите могат да управляват какво се случва при преминаване през различните състояние на дадено activity
   
+   ![alt text](https://raw.githubusercontent.com/profjordanov/Xamarin-Android-Basics/master/life_cycle.PNG)
+  
   - Състояния:
   
      • Active или Running – когато activity работи на преден план    
@@ -68,4 +70,4 @@
   - Като реализация е подобно на Broadcast Receiver
   - Има файл с мета-данни
   
-  ![alt text](https://raw.githubusercontent.com/profjordanov/Xamarin-Android-Basics/master/life_cycle.PNG)
+ 
