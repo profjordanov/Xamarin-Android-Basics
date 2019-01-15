@@ -67,3 +67,5 @@
   - Показва се на началния екран на Android
   - Като реализация е подобно на Broadcast Receiver
   - Има файл с мета-данни
+  
+  ![alt text](https://raw.githubusercontent.com/profjordanov/Xamarin-Android-Basics/master/life_cycle.PNG)
